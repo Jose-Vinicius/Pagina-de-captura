@@ -1,0 +1,21 @@
+* {
+    padding:0;
+    margin:0;
+    vertical-align:baseline;
+    list-style:none;
+    border:0;
+}
+.top-side{
+    background-color: #22223B;
+    height: 70vh;
+}
+.logo-top{
+    display: flex;
+}
+.ebook-top{
+    margin: 40px;
+}
+.logo img{
+    margin: 25px;
+    width: 150px;
+}
