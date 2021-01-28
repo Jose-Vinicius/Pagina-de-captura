@@ -3,7 +3,7 @@
     margin:0;
     vertical-align:baseline;
     list-style:none;
-    border:0;
+
 }
 .top-side{
     background-color: #22223B;
@@ -15,7 +15,33 @@
 .ebook-top{
     margin: 40px;
 }
+.logo{
+    background-color: #4A4E69;
+    margin-top: 30px;
+    border-radius: 25px;
+    width: 40vw;
+    height: 50vh;
+    padding: 30px;
+    padding-top: 10px;
+}
 .logo img{
-    margin: 25px;
+    margin: 15px;
+    margin-bottom: 10px;
     width: 150px;
+}
+.logo h1{
+    color:#C9ADA7;
+    margin-bottom: 18px;
+    font-size: 40px;
+}
+.logo h2{
+    font-size: 28px;
+    color:#F2E9E4;
+}
+.logo p{
+    margin-left: 10px;
+    width: 450px;
+    font-size: 22px;
+    color:#000000; 
+    line-height: 1.3;
 }
